@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Nicholas Stoll',
-  domain: 'transitivebullsh.it',
+  domain: 'coursel.xyz',
   author: 'Nicholas Stoll',
 
   // open graph metadata (optional)
