@@ -12,9 +12,9 @@ module.exports = {
   author: 'Nicholas Stoll',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'The digital hub for all things me.',
+  socialImageTitle: 'coursel.eth',
+  socialImageSubtitle: 'print("Hello World! 👋"',
 
   // social usernames (optional)
   twitter: 'nicholascoursel',
