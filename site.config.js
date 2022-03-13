@@ -12,7 +12,7 @@ module.exports = {
   author: 'Nicholas Stoll',
 
   // open graph metadata (optional)
-  description: 'The digital hub for all things me.',
+  description: 'A digital hub for all things me.',
   socialImageTitle: 'coursel.eth',
   socialImageSubtitle: 'print("Hello World! 👋"',
 
