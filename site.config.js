@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Nicholas Stoll',
+  name: 'Nicholas Coursel',
   domain: 'coursel.xyz',
-  author: 'Nicholas Stoll',
+  author: 'Nicholas Coursel',
 
   // open graph metadata (optional)
   description: 'A digital hub for all things me.',
